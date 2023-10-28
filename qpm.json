@@ -2,7 +2,7 @@
   "sharedDir": "shared",
   "dependenciesDir": "extern",
   "info": {
-    "name": "safestorage",
+    "name": "SafeStorage",
     "id": "safestorage",
     "version": "0.1.0",
     "url": null,
