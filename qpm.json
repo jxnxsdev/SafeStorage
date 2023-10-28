@@ -4,8 +4,8 @@
   "info": {
     "name": "SafeStorage",
     "id": "safestorage",
-    "version": "0.1.0",
-    "url": null,
+    "version": "0.1.2",
+    "url": "https://github.com/hdgamer1404Jonas/SafeStorage",
     "additionalData": {
       "overrideSoName": "libsafestorage.so",
       "cmake": true
