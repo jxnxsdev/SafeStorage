@@ -3,6 +3,7 @@
   "_QPVersion": "1.0.0",
   "name": "${mod_name}",
   "id": "${mod_id}",
+"modloader": "QuestLoader",
   "author": "hdgamer1404Jonas",
   "version": "${version}",
   "packageId": "com.beatgames.beatsaber",
