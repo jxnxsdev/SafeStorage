@@ -1,12 +1,12 @@
 #include "storageParser.hpp"
 #include "main.hpp"
-#include "modloader/shared/modloader.hpp"
+#include "scotland2/shared/modloader.h"
 
 namespace SafeStorage::Parser {
     std::string_view filepath = "";
 
     void findPath() {
-        std::string destPath = Modloader::getDestinationPath();
+        std::string destPath = modloader_get_files_dir();
         filepath = destPath + "/SafeStorage_DO_NOT_SHARE_THIS_OR_THE_CONTENTS_OF_THIS_FILE.dat";
     }
 

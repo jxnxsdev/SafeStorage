@@ -3,17 +3,19 @@
   "_QPVersion": "1.0.0",
   "name": "${mod_name}",
   "id": "${mod_id}",
-  "modloader": "QuestLoader",
+  "modloader": "Scotland2",
   "author": "hdgamer1404Jonas",
   "version": "${version}",
   "packageId": "com.beatgames.beatsaber",
-  "packageVersion": "1.28.0_4124311467",
-  "description": "Allows for safe storage and encryption of strings to prevent users from accidentally doxxing themselfs",
+  "packageVersion": "1.34.2_7115288407",
+  "description": "Allows for safe storage and encryption of strings to prevent users from accidentally doxxing themselves",
   "coverImage": "cover.png",
   "dependencies": [],
   "modFiles": [
-	    "libsafestorage.so"
-],
+  ],
+  "lateModFiles": [
+    "libsafestorage.so"
+  ],
   "libraryFiles": [],
   "fileCopies": []
 }
