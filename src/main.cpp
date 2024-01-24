@@ -32,4 +32,6 @@ extern "C" void load() {
     il2cpp_functions::Init();
     SafeStorage::Parser::validateStorage();
     SafeStorage::Parser::findPath();
+
+    getLogger().info("Initialized File Storage!");
 }

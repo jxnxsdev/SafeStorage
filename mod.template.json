@@ -12,10 +12,9 @@
   "coverImage": "cover.png",
   "dependencies": [],
   "modFiles": [
-  ],
-  "lateModFiles": [
     "libsafestorage.so"
   ],
+  "lateModFiles": [],
   "libraryFiles": [],
   "fileCopies": []
 }
