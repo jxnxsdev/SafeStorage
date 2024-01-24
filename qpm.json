@@ -5,7 +5,7 @@
   "info": {
     "name": "SafeStorage",
     "id": "safestorage",
-    "version": "0.1.6",
+    "version": "1.1.1",
     "url": "https://github.com/hdgamer1404Jonas/SafeStorage",
     "additionalData": {
       "overrideSoName": "libsafestorage.so",
